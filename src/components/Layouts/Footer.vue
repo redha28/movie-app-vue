@@ -2,7 +2,7 @@
   <section class="mt-12">
     <footer class="w-full bg-primary">
       <div class="py-6 max-w-max mx-auto">
-        <h1 class="text-center text-white text-base">&copy; 2023 Redha R</h1>
+        <h1 class="text-center text-white text-base">&copy; 2023 Redha Dev</h1>
         <div class="flex gap-6 sm:gap-8 justify-center my-4">
           <a href="https://github.com/redha28">
             <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 496 512">
